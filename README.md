@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="Banner" width="80%" />
+  <img src="img.png" alt="Banner" width="50%" />
 </p>
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px;">
 
