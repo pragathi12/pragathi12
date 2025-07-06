@@ -1,4 +1,7 @@
-![Header](https://raw.githubusercontent.com/pragathi12/pragathi12/main/banner.png)
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
+<div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px;">
 
 <h1 align="center">Hi there! 👋 I’m Pragathi Kanala</h1>
 
