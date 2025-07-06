@@ -91,11 +91,15 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 
 <h2>🎓 Certifications</h2>
 <ul>
-  <li>🏆 AWS Cloud & DevOps Essentials – <i>Mphasis</i></li>
-  <li>☁️ Apache Kafka – <i>Mphasis</i></li>
-  <li>🔧 REST API & Microservices – <i>Mphasis</i></li>
-  <li>🐍 Python for Everybody – <i>University of Michigan (Coursera)</i></li>
+  <li>🏆 AWS Cloud Fundamentals – <i>Mphasis platform</i></li>
+  <li>☁️ AWS Cloud Content Management – <i>Mphasis platform</i></li>
+  <li>🔄 Apache Kafka – <i>Mphasis platform</i></li>
+  <li>🔧 RESTful Web Services – <i>Mphasis platform</i></li>
+  <li>🧩 Java Microservices – <i>Mphasis platform</i></li>
+  <li>🛠️ Git & DevOps Essentials – <i>Mphasis platform</i></li>
+  <li>🐍 Programming for Everybody – <i>University of Michigan (Coursera)</i></li>
 </ul>
+
 
 <h2>🚀 Notable Projects</h2>
 
