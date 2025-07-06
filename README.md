@@ -18,31 +18,81 @@
 
 <hr>
 
-<h2>😎 About Me</h2>
+<h2 align="center">😎 About Me</h2>
 
-<b>Digital Developer | Tech Explorer | Lifelong Learner</b>
+<b>Full-Stack Software Developer | Cloud Enthusiast | Lifelong Learner</b>
 
 <p>
-I’m a Full Stack Developer and passionate Computer Science graduate who enjoys building scalable backend services and beautiful frontend interfaces. I love solving problems with code and am constantly learning and exploring new tools and technologies.
+I’m a dedicated and curious developer with a Computer Science background, passionate about building scalable backend systems and interactive frontend solutions. I constantly seek opportunities to innovate and apply technology to solve real-world challenges.
 </p>
 
 <ul>
-  <li>🌱 Currently diving deeper into <b>Cloud Architecture and DevOps</b></li>
-  <li>💼 Ex-Software Engineer at <b>Mphasis Ltd.</b> (Java + Actimize)</li>
-  <li>🎯 Interested in <b>Machine Learning</b>, <b>APIs</b>, and <b>Web3</b></li>
+  <li>🌱 Currently diving deeper into <b>Cloud Architecture, DevOps, and CI/CD automation</b></li>
+  <li>💼 Ex-Software Engineer at <b>Mphasis Ltd.</b> working on <b>Java + Actimize</b> for banking systems</li>
+  <li>🔧 Built full-stack applications using <b>Java, Spring Boot, React.js, and MySQL</b></li>
+  <li>☁️ Hands-on with <b>AWS (EC2, S3, Lambda, RDS)</b> and containerized deployments using <b>Docker</b></li>
+  <li>🧠 Applied <b>Machine Learning</b> to real-world use cases including <b>Digit Recognition</b> and <b>AgriTech</b></li>
+  <li>🔐 Familiar with <b>Cybersecurity, IAM, and network-level access controls</b></li>
+  <li>💬 Always exploring <b>APIs, Web3</b>, and contributing to impactful <b>open-source projects</b></li>
 </ul>
 
-<h2>💼 Technical Skills</h2>
 
-<table>
-  <tr><td><b>Languages</b></td><td>Python, Java, C, Spring, HTML, CSS, JavaScript</td></tr>
-  <tr><td><b>Frontend</b></td><td>React.js, Bootstrap, jQuery</td></tr>
-  <tr><td><b>Backend & APIs</b></td><td>Node.js, Express, REST APIs, Java Microservices</td></tr>
-  <tr><td><b>Databases</b></td><td>MySQL</td></tr>
-  <tr><td><b>DevOps & Cloud</b></td><td>AWS (EC2, S3, Lambda, RDS, VPC), Docker, Kubernetes, GitHub Actions, AWS CLI</td></tr>
-  <tr><td><b>Cybersecurity</b></td><td>IAM, PAM, Network Security Principles</td></tr>
-  <tr><td><b>Tools & OS</b></td><td>Git, Wireshark, PowerShell, Linux, Windows</td></tr>
-</table>
+<h2 align="center">💼 Technical Skills</h2>
+
+<style>
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+  }
+  .skill-box {
+    background-color: #111827;
+    color: #f9fafb;
+    border: 1px solid #374151;
+    border-radius: 10px;
+    padding: 15px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .skill-box h3 {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+    color: #60a5fa;
+  }
+</style>
+
+<div class="skills-grid">
+  <div class="skill-box">
+    <h3>Languages</h3>
+    <p>Python, Java, C, Spring, HTML, CSS, JavaScript</p>
+  </div>
+  <div class="skill-box">
+    <h3>Frontend</h3>
+    <p>React.js, Bootstrap, jQuery</p>
+  </div>
+  <div class="skill-box">
+    <h3>Backend & APIs</h3>
+    <p>Node.js, Express, REST APIs, Java Microservices</p>
+  </div>
+  <div class="skill-box">
+    <h3>Databases</h3>
+    <p>MySQL</p>
+  </div>
+  <div class="skill-box">
+    <h3>DevOps & Cloud</h3>
+    <p>AWS (EC2, S3, Lambda, RDS, VPC), Docker, Kubernetes, GitHub Actions, AWS CLI</p>
+  </div>
+  <div class="skill-box">
+    <h3>Cybersecurity</h3>
+    <p>IAM, PAM, Network Security Principles</p>
+  </div>
+  <div class="skill-box">
+    <h3>Tools & OS</h3>
+    <p>Git, Wireshark, PowerShell, Linux, Windows</p>
+  </div>
+</div>
+
 
 <h2>🎓 Certifications</h2>
 <ul>
