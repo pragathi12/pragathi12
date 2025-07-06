@@ -3,9 +3,9 @@
 <p align="center">
   <img src="img.png" alt="Banner" width="100%" />
 </p>
-<h1 align="center" style="font-size: 48px; font-family: 'Arial', sans-serif;">Hi there! 👋 I’m Pragathi Kanala</h1>
+<h1 align="center" style="font-size: 56px; font-family: 'Arial', sans-serif;">Hi there! 👋 I’m Pragathi Kanala</h1>
 
-<h3 align="center" style="font-size: 28px; font-family: 'Arial', sans-serif;">Software Developer | Full-Stack Engineer</h3>
+<h3 align="center" style="font-size: 32px; font-family: 'Arial', sans-serif;">Software Developer | Full-Stack Engineer</h3>
 
 
 <hr>
