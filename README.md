@@ -2,6 +2,15 @@
 
 <!--
 **pragathi12/pragathi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pragathi Kanala</h1>
+<h3 align="center">Computer Science Graduate | Full-Stack Developer | DevOps Enthusiast</h3>
+
+<p align="center">
+  <a href="https://k-pragathi258.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-1f425f?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/k-pragathi258/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/pragathi12"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-follow-333?style=for-the-badge&logo=github"></a>
+</p>
+
 
 Here are some ideas to get you started:
 
