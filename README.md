@@ -37,61 +37,56 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 </ul>
 
 
-<h2 align="center">💼 Technical Skills</h2>
 
-<style>
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px;
-    padding: 20px 0;
-  }
-  .skill-box {
-    background-color: #111827;
-    color: #f9fafb;
-    border: 1px solid #374151;
-    border-radius: 10px;
-    padding: 15px 20px;
-    font-family: 'Segoe UI', sans-serif;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-  .skill-box h3 {
-    margin-bottom: 10px;
-    font-size: 1.1rem;
-    color: #60a5fa;
-  }
-</style>
+<h2>💼 Technical Skills</h2>
 
-<div class="skills-grid">
-  <div class="skill-box">
-    <h3>Languages</h3>
-    <p>Python, Java, C, Spring, HTML, CSS, JavaScript</p>
-  </div>
-  <div class="skill-box">
-    <h3>Frontend</h3>
-    <p>React.js, Bootstrap, jQuery</p>
-  </div>
-  <div class="skill-box">
-    <h3>Backend & APIs</h3>
-    <p>Node.js, Express, REST APIs, Java Microservices</p>
-  </div>
-  <div class="skill-box">
-    <h3>Databases</h3>
-    <p>MySQL</p>
-  </div>
-  <div class="skill-box">
-    <h3>DevOps & Cloud</h3>
-    <p>AWS (EC2, S3, Lambda, RDS, VPC), Docker, Kubernetes, GitHub Actions, AWS CLI</p>
-  </div>
-  <div class="skill-box">
-    <h3>Cybersecurity</h3>
-    <p>IAM, PAM, Network Security Principles</p>
-  </div>
-  <div class="skill-box">
-    <h3>Tools & OS</h3>
-    <p>Git, Wireshark, PowerShell, Linux, Windows</p>
-  </div>
-</div>
+<table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tr style="background-color: #1f2937; color: #ffffff;">
+    <th style="padding: 10px; text-align: left;">Category</th>
+    <th style="padding: 10px; text-align: left;">Skills & Tools</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Programming Languages</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">C, C++, Python, Java, Spring</td>
+  </tr>
+  <tr style="background-color: #f9fafb;">
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Web Services</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">RESTful Web Services, Java Microservices, Git, DevOps Essentials, Cloud Fundamentals, Cloud Content Management, Apache Kafka</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Scripting Languages</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Wireshark, PowerShell</td>
+  </tr>
+  <tr style="background-color: #f9fafb;">
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Web Technologies</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">HTML, CSS, JavaScript, jQuery, React.js, Node.js</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Databases</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">MySQL</td>
+  </tr>
+  <tr style="background-color: #f9fafb;">
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Cloud & DevOps</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">AWS (EC2, S3, IAM, Lambda, RDS, VPC), Kubernetes (EKS, ECS), Docker, AWS CLI, CI/CD (CodePipeline, CodeDeploy)</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Operating Systems</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Linux, Windows</td>
+  </tr>
+  <tr style="background-color: #f9fafb;">
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Cyber Security</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Privileged Account Management, Identity & Access Management</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Embedded Systems</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">ARM Cortex M3, Verilog, VHDL</td>
+  </tr>
+  <tr style="background-color: #f9fafb;">
+    <td style="padding: 10px; border: 1px solid #ccc;"><b>Simulators & Verification</b></td>
+    <td style="padding: 10px; border: 1px solid #ccc;">Xilinx Vivado, MATLAB, Network Simulator 2, ARM Keil uVision</td>
+  </tr>
+</table>
+
 
 
 <h2>🎓 Certifications</h2>
