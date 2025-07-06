@@ -6,13 +6,13 @@
 
 <h1 align="center">Hi there! 👋 I’m Pragathi Kanala</h1>
 
-<h3 align="center">Software Developer | Cloud & DevOps Enthusiast | Full-Stack Engineer</h3>
+<h3 align="center">Software Developer | Full-Stack Engineer</h3>
 
 <hr>
 
 <p align="center">
-  <a href="https://k-pragathi258.github.io/"><img src="https://img.shields.io/badge/Portfolio-visit-1f425f?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/k-pragathi258/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://pragathi12.github.io/PORTFOLIO-PRAGATHIKANALA/"><img src="https://img.shields.io/badge/Portfolio-visit-1f425f?style=for-the-badge"></a>
+  <a href="http://linkedin.com/in/k-pragathi258/"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/pragathi12"><img src="https://img.shields.io/badge/GitHub-follow-333?style=for-the-badge&logo=github"></a>
 </p>
 
