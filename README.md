@@ -117,7 +117,8 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 
 <h2 align="center">🌐 Let's Connect</h2>
 
-<ul>
+
+<ul style="list-style: none; padding-left: 0;">
   <li align="center">📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></li>
   <li align="center">
     <a href="http://linkedin.com/in/k-pragathi258/" target="_blank">
