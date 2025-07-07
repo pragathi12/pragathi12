@@ -117,17 +117,21 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 
 <h2 align="center">🚀 Notable Projects</h2>
 
-<h3><a href="https://github.com/pragathi12/recipe-finder" target="_blank">🔍 Recipe Finder (MERN Stack)</a></h3>
+<h3><a href="https://github.com/pragathi12/Recipe_Finder_Project.git" target="_blank" >🔍 Recipe Finder (MERN Stack)</a></h3>
 <p><b>Tech:</b> MongoDB, Express.js, React.js, Node.js, AWS EC2</p>
 <p>Developed an app to search, save, and share recipes with user auth and cloud deployment.</p>
 
-<h3><a href="https://github.com/pragathi12/handwritten-digit-recognizer" target="_blank">🔢 Handwritten Digit Recognizer (ML + GUI)</a></h3>
+<h3><a href="https://github.com/pragathi12/Hand_Written_Recognition_of_Digit_9_Project.git" target="_blank">🔢 Handwritten Digit Recognizer (ML + GUI)</a></h3>
 <p><b>Tech:</b> Python, TensorFlow, OpenCV, Tkinter</p>
 <p>Achieved 98% accuracy using CNN on MNIST data with live canvas input.</p>
 
 <h3><a href="https://github.com/pragathi12/digifarmer" target="_blank">🌾 DigiFarmer (AI Agriculture App)</a></h3>
 <p><b>Tech:</b> Flutter, Firebase, TensorFlow Lite</p>
 <p>Built a real-time agriculture advisory mobile app for Indian farmers.</p>
+
+<h3><a href="https://github.com/pragathi12/Inventory_Management_Project.git" target="_blank">📦 Inventory Management System</a></h3>
+<p><b>Tech:</b> Java, MySQL, JDBC, (Optional GUI with Swing)</p>
+<p>Developed a system for tracking inventory levels, managing stock, processing orders, and generating alerts for low-stock items to streamline warehouse operations.</p>
 
 
 
