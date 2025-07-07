@@ -115,7 +115,7 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 <p><b>Tech:</b> Flutter, Firebase, TensorFlow Lite</p>
 <p>Built a real-time agriculture advisory mobile app for Indian farmers.</p>
 
-<h2 align="center">🌐 Let's Connect</h2>
+
 
 
 <h2 align="center">🌐 Let's Connect</h2>
