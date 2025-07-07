@@ -38,7 +38,7 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 
 
 
-<h2>💼 Technical Skills</h2>
+<h2 align="center">💼 Technical Skills</h2>
 
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
   <tr style="background-color: #1f2937; color: #ffffff;">
@@ -89,7 +89,7 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 
 
 
-<h2>🎓 Certifications</h2>
+<h2 align="center">🎓 Certifications</h2>
 <ul>
   <li>🏆 AWS Cloud Fundamentals – <i>Mphasis platform</i></li>
   <li>☁️ AWS Cloud Content Management – <i>Mphasis platform</i></li>
@@ -101,7 +101,7 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 </ul>
 
 
-<h2>🚀 Notable Projects</h2>
+<h2 align="center">🚀 Notable Projects</h2>
 
 <h3>🔍 Recipe Finder (MERN Stack)</h3>
 <p><b>Tech:</b> MongoDB, Express.js, React.js, Node.js, AWS EC2</p>
@@ -115,11 +115,11 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 <p><b>Tech:</b> Flutter, Firebase, TensorFlow Lite</p>
 <p>Built a real-time agriculture advisory mobile app for Indian farmers.</p>
 
-<h2>🌐 Let's Connect</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 
 <ul>
-  <li>📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></li>
-  <li>
+  <li align="center">📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></li>
+  <li align="center">
     <a href="http://linkedin.com/in/k-pragathi258/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
     </a>
