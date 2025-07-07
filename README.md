@@ -1,7 +1,7 @@
 <div style="background-color: black; color: white; padding: 20px; font-family: Arial;">
 
 <p align="center">
-  <img src="img.png" alt="Banner" width="10%" />
+  <img src="img.png" alt="Banner" width="60%" />
 </p>
 <h1 align="center" style="font-size: 100px; font-family: 'Arial', sans-serif;">Hi there! 👋 I’m Pragathi Kanala</h1>
 
