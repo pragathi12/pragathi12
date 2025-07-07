@@ -107,7 +107,7 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 <p><b>Tech:</b> MongoDB, Express.js, React.js, Node.js, AWS EC2</p>
 <p>Developed an app to search, save, and share recipes with user auth and cloud deployment.</p>
 
-<h3>🔢 Digit Recognizer (ML + GUI)</h3>
+<h3>🔢 Handwritten Digit Recognizer (ML + GUI)</h3>
 <p><b>Tech:</b> Python, TensorFlow, OpenCV, Tkinter</p>
 <p>Achieved 98% accuracy using CNN on MNIST data with live canvas input.</p>
 
