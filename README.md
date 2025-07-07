@@ -118,19 +118,21 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 <h2 align="center">🌐 Let's Connect</h2>
 
 
-<ul style="list-style: none; padding-left: 0;">
-  <li align="center">📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></li>
-  <li align="center">
-    <a href="http://linkedin.com/in/k-pragathi258/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-    </a>
-    <a href="https://github.com/pragathi12" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
-    </a>
-    <a href="https://pragathi12.github.io/PORTFOLIO-PRAGATHIKANALA/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="30" />
-    </a>
-  </li>
-</ul>
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></p>
+
+<p align="center">
+  <a href="http://linkedin.com/in/k-pragathi258/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://github.com/pragathi12" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+  </a>
+  <a href="https://pragathi12.github.io/PORTFOLIO-PRAGATHIKANALA/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="30" />
+  </a>
+</p>
+
 
 </div>
