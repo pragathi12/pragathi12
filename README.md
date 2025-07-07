@@ -114,6 +114,8 @@ I’m a dedicated and curious developer with a Computer Science background, pass
   <li>🐍 Programming for Everybody – <i>University of Michigan (Coursera)</i></li>
 </ul>
 
+<h2 align="center">🏆 Academic Achievements</h2> <h3>🎓 Master's (Computer Science)</h3> <ul> <li>Awarded <b>Outstanding Student of the Year (2025)</b> by the Department of Computer Science</li> </ul> <h3>🎓 Bachelor's (Electronics & Communication)</h3> <ul> <li>Graduated with <b>Distinction</b>, recognized by the Department of Electronics and Communication</li> </ul>
+
 
 <h2 align="center">🚀 Notable Projects</h2>
 
