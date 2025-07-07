@@ -116,22 +116,20 @@ I’m a dedicated and curious developer with a Computer Science background, pass
 <p>Built a real-time agriculture advisory mobile app for Indian farmers.</p>
 
 <h2>🌐 Let's Connect</h2>
+
 <ul>
-  <li>📧 Email: pragathi258@gmail.com</li>
-  <li>🔗 <a href="https://www.linkedin.com/in/k-pragathi258/" style="color: lightblue;">LinkedIn</a> | 
-          <a href="https://github.com/pragathi12" style="color: lightblue;">GitHub</a> | 
-          <a href="https://k-pragathi258.github.io/" style="color: lightblue;">Portfolio</a>
+  <li>📧 Email: <a href="mailto:pragathi258@gmail.com">pragathi258@gmail.com</a></li>
+  <li>
+    <a href="https://www.linkedin.com/in/k-pragathi258/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    </a>
+    <a href="https://github.com/pragathi12" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
+    </a>
+    <a href="https://k-pragathi258.github.io/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="30" />
+    </a>
   </li>
 </ul>
-
-<hr>
-
-<p align="center">
-  <i>"Driven by curiosity. Powered by purpose. Committed to innovation."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pragathi12&style=flat-square&color=blue" alt="Profile Views">
-</p>
 
 </div>
