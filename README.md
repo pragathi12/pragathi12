@@ -86,6 +86,20 @@ I’m a dedicated and curious developer with a Computer Science background, pass
     <td style="padding: 10px; border: 1px solid #ccc;">Xilinx Vivado, MATLAB, Network Simulator 2, ARM Keil uVision</td>
   </tr>
 </table>
+<h2 align="center">💼 Work Experience</h2>
+
+---
+
+### 👨‍💻 Software Engineer @ Mphasis Limited  
+📅 *September 2021 – July 2023*
+
+✅ Developed secure, responsive banking apps using **Java, MySQL, HTML, CSS, JavaScript**  
+✅ Built custom **Suspicious Activity Report (SAR)** forms for regulatory compliance  
+✅ Worked with **Actimize AML-SAM, RCM, AIS, and CDD** to handle AML workflows  
+✅ Automated alert management for improved risk monitoring and investigation  
+✅ Customized Actimize objects for enhanced user experience and functionality  
+✅ Collaborated on project planning, timelines, and on-time delivery  
+✅ Delivered data-driven risk analysis for client-specific compliance solutions  
 
 
 
